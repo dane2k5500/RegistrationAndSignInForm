@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/RegistrationAndSignInForm/static/css/main.91c41a87.chunk.css",
+    "main.js": "/RegistrationAndSignInForm/static/js/main.03c77f48.chunk.js",
+    "main.js.map": "/RegistrationAndSignInForm/static/js/main.03c77f48.chunk.js.map",
+    "runtime-main.js": "/RegistrationAndSignInForm/static/js/runtime-main.5733f581.js",
+    "runtime-main.js.map": "/RegistrationAndSignInForm/static/js/runtime-main.5733f581.js.map",
+    "static/js/2.cee99b07.chunk.js": "/RegistrationAndSignInForm/static/js/2.cee99b07.chunk.js",
+    "static/js/2.cee99b07.chunk.js.map": "/RegistrationAndSignInForm/static/js/2.cee99b07.chunk.js.map",
+    "index.html": "/RegistrationAndSignInForm/index.html",
+    "precache-manifest.4df2c76eb67a5c3d4bc6e68c2bffc213.js": "/RegistrationAndSignInForm/precache-manifest.4df2c76eb67a5c3d4bc6e68c2bffc213.js",
+    "service-worker.js": "/RegistrationAndSignInForm/service-worker.js",
+    "static/css/main.91c41a87.chunk.css.map": "/RegistrationAndSignInForm/static/css/main.91c41a87.chunk.css.map",
+    "static/js/2.cee99b07.chunk.js.LICENSE": "/RegistrationAndSignInForm/static/js/2.cee99b07.chunk.js.LICENSE",
+    "static/media/App.css": "/RegistrationAndSignInForm/static/media/woman-smiling.c866dc6a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5733f581.js",
+    "static/js/2.cee99b07.chunk.js",
+    "static/css/main.91c41a87.chunk.css",
+    "static/js/main.03c77f48.chunk.js"
+  ]
+}
